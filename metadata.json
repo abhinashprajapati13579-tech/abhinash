@@ -1,0 +1,6 @@
+{
+  "name": "FrameFlow AI",
+  "description": "Professional AI-powered animation frame generation platform with granular scene, character, background, and camera consistency controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
